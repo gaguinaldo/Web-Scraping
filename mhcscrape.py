@@ -5,8 +5,6 @@
 import requests			
 from bs4 import BeautifulSoup as soup
 
-#Script to scrape the review text as well as the numerical value of the stars
-
 """
 
 Each page on yelp displays 10 reviews.  To advance to the next page, the url 
