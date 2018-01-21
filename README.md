@@ -1,5 +1,7 @@
-# Web-Scraping
+# Python-Based Web Scraping Scripts 
 
-This is my first script to scrape review text from a page on yelp.
+These notebooks are scripts that I have written to scrape data from various web pages. 
 
-This is for educational purposes only. 
+All of these scripts are being used for educational purposes only. 
+
+***
