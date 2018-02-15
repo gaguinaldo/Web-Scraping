@@ -1,3 +1,10 @@
+## Web Scraping Using Beautiful Soup, Pandas and Requests.
+
+This repo contains the code that was developed to scrape a web site using Beautiful Soup, Pandas and Requests. 
+
+The YouTube video that was made is [here](https://youtu.be/iqWZQcW5FTE)
+
+***
 * Webpage contains content inserted between tags (HTML tags and/or CSS)
 
 * Tags on a webpage can be nested (i.e., one tag can contain one or more tags that contain more data)
@@ -16,3 +23,4 @@
 
 * Know what you want before starting. 
 
+***
